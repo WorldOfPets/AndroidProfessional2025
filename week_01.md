@@ -1,0 +1,6 @@
+1. [Курс Kotlin](https://www.youtube.com/watch?v=hivUn-YOTz4&list=PLgPRahgE-Gcu4s-I9mrHUrKUp9dY6QcJC)
+2. 3 лекции (прочитать/повторить)
+    * [Hello android](https://github.com/JohnnySC/Lectures/blob/main/Easy%20code.%20Android.%20Лекция%20001.pdf)
+    * [Изображения](https://github.com/JohnnySC/Lectures/blob/main/Easy%20code.%20Android.%20Лекция%20002.pdf)
+    * [Форма ввода](https://github.com/JohnnySC/Lectures/blob/main/Easy%20code.%20Android.%20Лекция%20003.pdf)
+3. 5-10 задач на [Codewars](https://www.codewars.com/dashboard)
