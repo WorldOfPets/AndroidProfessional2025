@@ -1,3 +1,4 @@
+0. [Видеолекция 1.1](https://t.me/c/2350450422/2) [Видеолекция 1.2](https://t.me/c/2350450422/3)
 1. [Курс Kotlin](https://www.youtube.com/watch?v=hivUn-YOTz4&list=PLgPRahgE-Gcu4s-I9mrHUrKUp9dY6QcJC)
 2. 3 лекции (прочитать/повторить)
     * [Hello android](https://github.com/JohnnySC/Lectures/blob/main/Easy%20code.%20Android.%20Лекция%20001.pdf)
