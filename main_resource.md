@@ -4,6 +4,7 @@
 4. [Android Developer](https://developer.android.com/develop) - документация по Android. Кушать можно + **можно использовать на соревнованиях**
 5. [Путь самурая](https://roadmap.sh/android) - карта самурая
 6. [Android Studio Jellyfish](https://redirector.gvt1.com/edgedl/android/studio/install/2023.3.1.20/android-studio-2023.3.1.20-windows.exe) - самая стабильная из андроидстудий.
+7. [Git](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) - полный гайд по гиту (для полноценных разработчиков) 
 ----
 1. [Конкурсное задание Россия 2024](https://t.me/c/2350450422/6) - основное задание для подготовки
 2. [Конкурсное задание Москва 2024](https://t.me/c/2350450422/9) - дополнительное задание для подготовки
