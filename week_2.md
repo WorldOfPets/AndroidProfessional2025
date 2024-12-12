@@ -1,0 +1,7 @@
+0. [Видеолекция 2.1 Модуль А](https://t.me/c/2350450422/17) [Видеолекция 2.2 Модуль Г](https://t.me/c/2350450422/18)
+1. [Курс Kotlin](https://www.youtube.com/watch?v=hivUn-YOTz4&list=PLgPRahgE-Gcu4s-I9mrHUrKUp9dY6QcJC)
+2. 3 лекции (прочитать/повторить)
+    * [Дополнение к логин экрану](https://github.com/JohnnySC/Lectures/blob/main/Easy%20code.%20Android.%20Лекция%20004.pdf)
+    * [Активити и Жизненный цикл приложения](https://github.com/JohnnySC/Lectures/blob/main/Easy%20code.%20Android.%20Лекция%20005.pdf)
+    * [Хранение данных](https://github.com/JohnnySC/Lectures/blob/main/Easy%20code.%20Android.%20Лекция%20006.pdf)
+3. 5-10 задач на [Codewars](https://www.codewars.com/dashboard)
